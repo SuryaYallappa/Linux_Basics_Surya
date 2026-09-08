@@ -20,4 +20,4 @@ Practice essential Linux command-line operations using Ubuntu on WSL.
 
 ## GitHub Repository
 
-PASTE-YOUR-GITHUB-LINK-HERE
+https://github.com/SuryaYallappa/Linux_Basics_Surya.git
